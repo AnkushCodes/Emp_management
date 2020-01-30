@@ -1,9 +1,8 @@
-import 'package:AnkushTest/screens/addEmp.dart';
-import 'package:AnkushTest/screens/editData.dart';
 import 'package:flutter/material.dart';
-
 import 'listwidget.dart';
 import 'model/data.dart';
+import 'screens/addEmp.dart';
+import 'screens/editData.dart';
 
 
 void main() => runApp(HomePage());
